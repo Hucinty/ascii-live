@@ -1,9 +1,9 @@
 package frames
 
 // This is the value stored in the FrameMap
-var Bomb = DefaultFrameType(bomb)
+var love = DefaultFrameType(love)
 
-var bomb = []string{
+var love = []string{
                                                                                 
                                                                                 
                                                                                 
@@ -1637,5 +1637,6 @@ var bomb = []string{
                                                                                 
 
 `,
+
 
 }
