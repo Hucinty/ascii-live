@@ -4,6 +4,7 @@ package frames
 var love = DefaultFrameType(love)
 
 var love = []string{
+  '
                                                                                 
                                                                                 
                                                                                 
@@ -1640,3 +1641,4 @@ var love = []string{
 
 
 }
+
