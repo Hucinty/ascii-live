@@ -1,11 +1,10 @@
 package frames
 
-// This is the value stored in the FrameMap
-var love = DefaultFrameType(love)
-
-var love = []string{
-  '
-                                                                                
+var love = DefaultFrameType(loveFrames)
+// LoveFrames holds all ASCII frames for "love"
+var loveFrames = []string{
+`
+                                                                      
                                                                                 
                                                                                 
                                                                                 
@@ -46,7 +45,7 @@ var love = []string{
                                                                                 
                                                                                 
 
-`,
+`,`
 
                                                                                 
                                                                                 
@@ -89,7 +88,7 @@ var love = []string{
                                                                                 
                                                                                 
 
-`,
+`,`
 
                                                                                 
                                                                                 
@@ -132,7 +131,7 @@ var love = []string{
                                                                                 
                                                                                 
 
-`,
+`,`
 
                                                                                 
                                                                                 
@@ -175,7 +174,7 @@ var love = []string{
                                                                                 
                                                                                 
 
-`,
+`,`
 
                                                                                 
                                                                                 
@@ -218,7 +217,7 @@ var love = []string{
                                                                                 
                                                                                 
 
-`,
+`,`
 
                                                                                 
                                                                                 
@@ -261,7 +260,7 @@ var love = []string{
                                                                                 
                                                                                 
 
-`,
+`,`
 
                                                                                 
                                                                                 
@@ -304,7 +303,7 @@ var love = []string{
                                                                                 
                                                                                 
 
-`,
+`,`
 
                                                                                 
                                                                                 
@@ -347,7 +346,7 @@ var love = []string{
                                                                                 
                                                                                 
 
-`,
+`,`
 
                                                                                 
                                                                                 
@@ -390,7 +389,7 @@ var love = []string{
                                                                                 
                                                                                 
 
-`,
+`,`
 
                                                                                 
                                                                                 
@@ -433,7 +432,7 @@ var love = []string{
                                                                                 
                                                                                 
 
-`,
+`,`
 
                                                                                 
                                                                                 
@@ -476,7 +475,7 @@ var love = []string{
                                                                                 
                                                                                 
 
-`,
+`,`
 
                                                                                 
                                                                                 
@@ -519,7 +518,7 @@ var love = []string{
                                                                                 
                                                                                 
 
-`,
+`,`
 
                                                                                 
                                                                                 
@@ -562,7 +561,7 @@ var love = []string{
                                                                                 
                                                                                 
 
-`,
+`,`
 
                                                                                 
                                                                                 
@@ -605,7 +604,7 @@ var love = []string{
                                                                                 
                                                                                 
 
-`,
+`,`
 
                                                                                 
                                                                                 
@@ -648,7 +647,7 @@ var love = []string{
                                                                                 
                                                                                 
 
-`,
+`,`
 
                                                                                 
                                                                                 
@@ -691,7 +690,7 @@ var love = []string{
                                                                                 
                                                                                 
 
-`,
+`,`
 
                                                                                 
                                                                                 
@@ -734,7 +733,7 @@ var love = []string{
                                                                                 
                                                                                 
 
-`,
+`,`
 
                                                                                 
                                                                                 
@@ -777,7 +776,7 @@ var love = []string{
                                                                                 
                                                                                 
 
-`,
+`,`
 
                                                                                 
                                                                                 
@@ -820,7 +819,7 @@ var love = []string{
                                                                                 
                                                                                 
 
-`,
+`,`
 
                                                                                 
                                                                                 
@@ -863,7 +862,7 @@ var love = []string{
                                                                                 
                                                                                 
 
-`,
+`,`
 
                                                                                 
                                                                                 
@@ -906,7 +905,7 @@ var love = []string{
                                                                                 
                                                                                 
 
-`,
+`,`
 
                                                                                 
                                                                                 
@@ -949,7 +948,7 @@ var love = []string{
                                                                                 
                                                                                 
 
-`,
+`,`
 
                                                                                 
                                                                                 
@@ -992,7 +991,7 @@ var love = []string{
                                                                                 
                                                                                 
 
-`,
+`,`
 
                                                                                 
                                                                                 
@@ -1035,7 +1034,7 @@ var love = []string{
                                                                                 
                                                                                 
 
-`,
+`,`
 
                                                                                 
                                                                                 
@@ -1078,7 +1077,7 @@ var love = []string{
                                                                                 
                                                                                 
 
-`,
+`,`
 
                                                                                 
                                                                                 
@@ -1121,7 +1120,7 @@ var love = []string{
                                                                                 
                                                                                 
 
-`,
+`,`
 
                                                                                 
                                                                                 
@@ -1164,7 +1163,7 @@ var love = []string{
                                                                                 
                                                                                 
 
-`,
+`,`
 
                                                                                 
                                                                                 
@@ -1207,7 +1206,7 @@ var love = []string{
                                                                                 
                                                                                 
 
-`,
+`,`
 
                                                                                 
                                                                                 
@@ -1250,7 +1249,7 @@ var love = []string{
                                                                                 
                                                                                 
 
-`,
+`,`
 
                                                                                 
                                                                                 
@@ -1293,7 +1292,7 @@ var love = []string{
                                                                                 
                                                                                 
 
-`,
+`,`
 
                                                                                 
                                                                                 
@@ -1336,7 +1335,7 @@ var love = []string{
                                                                                 
                                                                                 
 
-`,
+`,`
 
                                                                                 
                                                                                 
@@ -1379,7 +1378,7 @@ var love = []string{
                                                                                 
                                                                                 
 
-`,
+`,`
 
                                                                                 
                                                                                 
@@ -1422,7 +1421,7 @@ var love = []string{
                                                                                 
                                                                                 
 
-`,
+`,`
 
                                                                                 
                                                                                 
@@ -1465,7 +1464,7 @@ var love = []string{
                                                                                 
                                                                                 
 
-`,
+`,`
 
                                                                                 
                                                                                 
@@ -1508,7 +1507,7 @@ var love = []string{
                                                                                 
                                                                                 
 
-`,
+`,`
 
                                                                                 
                                                                                 
@@ -1551,7 +1550,7 @@ var love = []string{
                                                                                 
                                                                                 
 
-`,
+`,`
 
                                                                                 
                                                                                 
@@ -1594,7 +1593,7 @@ var love = []string{
                                                                                 
                                                                                 
 
-`,
+`,`
 
                                                                                 
                                                                                 
@@ -1638,7 +1637,6 @@ var love = []string{
                                                                                 
 
 `,
-
-
 }
+
 
